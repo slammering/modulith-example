@@ -9,7 +9,7 @@ import java.util.UUID;
 
 @ApplicationModuleTest
 @RequiredArgsConstructor
-public class MasterDataTest {
+public class MasterDataTests {
 
     private final MasterDataService masterDataService;
 

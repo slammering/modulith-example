@@ -13,7 +13,7 @@ import java.util.UUID;
 
 @ApplicationModuleTest(ApplicationModuleTest.BootstrapMode.DIRECT_DEPENDENCIES)
 @RequiredArgsConstructor
-public class ApiTest {
+public class ApiTests {
 
     private final Controller controller;
 
